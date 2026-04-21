@@ -7,8 +7,8 @@
 
 3. Halaman web masing masing pastikan di run dari docker  screenshot :
 Halaman form (tabel diisi dengan nama masing masing)
+<img width="1916" height="1079" alt="image" src="https://github.com/user-attachments/assets/ba508137-3e40-40b0-aadb-84819681489f" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fae03466-137d-467b-905b-c5362fdadb92" />
 
 5. Halaman web teman yang di pull screenshot:
 Halaman form (tabel diisi dengan nama masing masing)
